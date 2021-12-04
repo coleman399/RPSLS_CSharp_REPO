@@ -1,0 +1,15 @@
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.exe
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.deps.json
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.runtimeconfig.json
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.dll
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\bin\Debug\net6.0\ref\RPSLS.dll
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\bin\Debug\net6.0\RPSLS.pdb
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.csproj.AssemblyReference.cache
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.AssemblyInfoInputs.cache
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.AssemblyInfo.cs
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.dll
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\ref\RPSLS.dll
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.pdb
+C:\Users\Pendragon\Desktop\devCodeCamp\Week_09\Project\RPSLS_CSharp_REPO\RPSLS\RPSLS\obj\Debug\net6.0\RPSLS.genruntimeconfig.cache

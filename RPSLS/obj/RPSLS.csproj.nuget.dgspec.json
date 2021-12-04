@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_C#_REPO\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_CSharp_REPO\\RPSLS\\RPSLS\\RPSLS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_C#_REPO\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_CSharp_REPO\\RPSLS\\RPSLS\\RPSLS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_C#_REPO\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_C#_REPO\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_CSharp_REPO\\RPSLS\\RPSLS\\RPSLS.csproj",
+        "projectName": "RPSLS",
+        "projectPath": "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_CSharp_REPO\\RPSLS\\RPSLS\\RPSLS.csproj",
         "packagesPath": "C:\\Users\\Pendragon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_C#_REPO\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Pendragon\\Desktop\\devCodeCamp\\Week_09\\Project\\RPSLS_CSharp_REPO\\RPSLS\\RPSLS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
