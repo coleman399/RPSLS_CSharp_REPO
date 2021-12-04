@@ -8,7 +8,7 @@ namespace RPSLS
 {
     internal class Human: Player
     {
-        string name;
+        internal string name;
         
         internal Human(string player)
         {

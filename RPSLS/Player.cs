@@ -8,12 +8,14 @@ namespace RPSLS
 {
     internal class Player
     {
-        string[] gestures;
-        int wins;
+        internal string[] gestures;
+        internal int[] gesture_index;
+        internal int wins;
 
         internal Player()
         {
             gestures = new string[] {"rock", "paper", "scissors", "lizard", "spock" };
+            gesture_index = new int[] { 1, 2, 3, 4, 5 }; 
             wins = 0;
         }
     }

@@ -8,11 +8,11 @@ namespace RPSLS
 {
     internal class Computer : Player
     {
-        string name;
+        internal string name;
 
         internal Computer()
         {
-            this.name = "Computer";
+            name = "Computer";
         }
     }
 }
