@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace RPSLS
 {
-    internal class Class1
+    internal class Human: Player
     {
+        string name;
+        
+        internal Human(string player)
+        {
+            this.name = player; 
+        }
     }
 }

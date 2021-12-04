@@ -8,5 +8,13 @@ namespace RPSLS
 {
     internal class Player
     {
+        string[] gestures;
+        int wins;
+
+        internal Player()
+        {
+            gestures = new string[] {"rock", "paper", "scissors", "lizard", "spock" };
+            wins = 0;
+        }
     }
 }

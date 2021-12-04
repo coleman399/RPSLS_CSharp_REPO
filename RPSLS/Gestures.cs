@@ -66,8 +66,5 @@ namespace RPSLS
                 return 0;
             }
         }
-
-
-
     }
 }
