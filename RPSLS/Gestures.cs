@@ -15,7 +15,7 @@ namespace RPSLS
         string lizard;
         string spock;
         List<string> defeats;
-        string input;
+        private string input;
 
         //constuctor
         internal Gestures(string input)
@@ -56,14 +56,15 @@ namespace RPSLS
         }
 
         //methods
-        internal int Results(string player_two_choice)
+        internal int Results(string player2_choice)
         {
-            if (defeats.Contains(player_two_choice))
-            {
-                return 1;
-            } else
+            if (defeats.Contains(player2_choice))
             {
                 return 0;
+            } 
+            else
+            {
+                return 1;
             }
         }
     }
